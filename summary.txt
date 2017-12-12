@@ -1,0 +1,9 @@
+Number of users collected 8
+Number of connection users collected 278
+Number of messages collected 66
+Number of communities discovered 3
+Average number of users per community 83.0
+Number of instances for class 0 -Male found 24
+Number of instances for class 1 -Female found 11
+Example of class 0 modeminho
+Example of class 1 María
